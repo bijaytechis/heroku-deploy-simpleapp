@@ -26,10 +26,7 @@ json5==0.9.5
 lazy-object-proxy==1.4.3
 locket==0.2.0
 mccabe==0.6.1
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-mock==4.0.2
+
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
