@@ -14,11 +14,6 @@ contextlib2==0.6.0.post1
 
 decorator==4.4.2
 defusedxml==0.6.0
-ddocutils==0.16
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-filelock==3.0.12
 
 Flask==1.1.2
 
@@ -26,16 +21,9 @@ future==0.18.2
 glob2==0.7
 gmpy2==2.0.8
 gunicorn==20.0.4
-h5py==2.10.0
-HeapDict==1.0.1
-ipython-genutils==0.2.0
-itsdangerous==1.1.0
-jdcal==1.4.1
 Jinja2==2.11.2
 json5==0.9.5
 lazy-object-proxy==1.4.3
-libarchive-c==2.9
-llvmlite==0.34.0
 locket==0.2.0
 mccabe==0.6.1
 mkl-fft==1.2.0
@@ -78,12 +66,7 @@ snowballstemmer==2.0.0
 sortedcollections==1.2.1
 sortedcontainers==2.2.2
 soupsieve==2.0.1
-sphinxcontrib-applehelp==1.0.2
-sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-htmlhelp==1.0.3
-sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.3
-sphinxcontrib-serializinghtml==1.1.4
+
 tables==3.6.1
 terminado==0.9.1
 testpath==0.4.4
@@ -92,5 +75,3 @@ tornado==6.0.4
 unicodecsv==0.14.1
 virtualenv==20.4.2
 webencodings==0.5.1
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
